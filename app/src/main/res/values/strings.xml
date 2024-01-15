@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sami</string>
+    <string name="title_travel_budget">TravelBudget</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="add_a_place">Add a Place</string>
+</resources>

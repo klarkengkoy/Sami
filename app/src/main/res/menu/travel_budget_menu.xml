@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add_a_place"
+        android:title="@string/add_a_place" />
+    <!-- Add more items as needed -->
+    <item
+        android:id="@+id/add_a_place2"
+        android:title="@string/add_a_place" />
+    <item
+        android:id="@+id/add_a_place3"
+        android:title="@string/add_a_place" />
+</menu>
