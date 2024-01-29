@@ -6,5 +6,17 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
+    <color name="gray">#E5E5E5</color>
+
     <color name="white">#FFFFFFFF</color>
+    <color name="navy_blue">#14213D</color>
+    <color name="yellow">#FCA311</color>
+
+<!--    <color name="fragment"-->
+
+    <!--Bottom Navigation-->
+    <color name="selected_icon_color">#FCA311</color>
+    <color name="default_icon_color">#E5E5E5</color>
+    <color name="bottom_nav_background_color">#FF000000</color>
+
 </resources>

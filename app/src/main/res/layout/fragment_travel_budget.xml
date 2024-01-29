@@ -24,12 +24,14 @@
         android:layout_height="match_parent"
         android:layout_marginTop="?attr/actionBarSize">
 
+
         <com.google.android.material.navigation.NavigationView
             android:id="@+id/nav_view"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_gravity="start"
-
+            android:background="@color/navy_blue"
+            app:itemTextColor="@color/white"
             app:menu="@menu/travel_budget_menu" />
 
     </androidx.drawerlayout.widget.DrawerLayout>
